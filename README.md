@@ -1,3 +1,8 @@
+
+Aplicação feita em ReactJS utilizando o Framework Gatsby, sua documentação pode ser encontrada aqui: https://www.gatsbyjs.com/ Para inicializar o programa, basta baixar o projeto, instalar as dependencias com yarn ou npm, e em seguida utilizar os comandos: npm run develop. Também tomei a liberdade de hospedar a aplicação na WEB para caso queira verifica-la de forma mais fácil, sem ter que fazer a instalção das dependências e etc, para isso, segue o link do demo da aplicação -> https://condescending-tereshkova-97dbd8.netlify.app/
+
+Abaixo tem uma guia mais detalhado a respeito do mesmo =) !
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
