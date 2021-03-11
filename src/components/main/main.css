@@ -1,0 +1,28 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 60px;
+}
+
+.searchBar {
+  background: #ebebeb;
+  width: 50%;
+  border-radius: 30px;
+  border: none;
+  padding: 20px;
+}
+
+.searchBar:focus {
+    outline-offset: 0px;
+    outline: none;
+}
+
+
+::placeholder {
+  color: #b7cad6;
+  opacity: 1; /* Firefox */
+}
+
+
